@@ -1,0 +1,34 @@
+
+//Write a program find quotient and remainder
+
+
+public class Q4 {
+    
+
+    
+    public static void main(String[] args) {
+      float quotient1 = 89/ 5;
+      int remainder1 = 87 % 5;
+      float quotient2 = 345 / 10;
+      int remainder2 = 235 % 10;
+      float quotient3 = 285 / 100;
+      int remainder3 = 345 % 100;
+      System.out.println(quotient1);
+      System.out.println(remainder1);
+      System.out.println(quotient2);
+      System.out.println(remainder2);
+      System.out.println(quotient3);
+      System.out.println(remainder3);
+    }
+  }
+  /*
+   * OUTPUT
+   * 17.0
+   *2
+   *34.0
+   * 5
+   *2.0
+    *45
+   * 
+   */
+
